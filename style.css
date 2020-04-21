@@ -404,7 +404,6 @@ header nav ul {
 /*alignment and spacing of the nav bar*/
 header nav ul li {
     display: inline-block;
-    text-align: center;
     float: center;
     list-style: none;
     padding: 0px 5px;
@@ -412,7 +411,6 @@ header nav ul li {
 
 /*Clickable links themselves*/
 header nav ul li a {
-    text-align: center;
     font-family: Roboto;
     font-size: 1.30em;
     font-weight: 450;
